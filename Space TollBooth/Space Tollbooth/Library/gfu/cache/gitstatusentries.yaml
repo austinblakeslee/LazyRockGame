@@ -13,9 +13,58 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-09-26T22:52:57.986-04:00
-  initializedAtString: 2020-09-26T22:50:54.243-04:00
+  lastUpdatedAtString: 2020-09-26T23:06:49.628-04:00
+  initializedAtString: 2020-09-26T23:06:49.628-04:00
   entries:
+  - path: Space TollBooth\Space Tollbooth\Assets\Assets\Skybox.meta
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Assets\Assets\Skybox.meta
+    projectPath: Assets\Assets\Skybox.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Space TollBooth\Space Tollbooth\Assets\Assets\Skybox\hdr.png
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Assets\Assets\Skybox\hdr.png
+    projectPath: Assets\Assets\Skybox\hdr.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Space TollBooth\Space Tollbooth\Assets\Assets\Skybox\hdr.png.meta
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Assets\Assets\Skybox\hdr.png.meta
+    projectPath: Assets\Assets\Skybox\hdr.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Space TollBooth\Space Tollbooth\Assets\Assets\Skybox\Skybox.mat
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Assets\Assets\Skybox\Skybox.mat
+    projectPath: Assets\Assets\Skybox\Skybox.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Space TollBooth\Space Tollbooth\Assets\Assets\Skybox\Skybox.mat.meta
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Assets\Assets\Skybox\Skybox.mat.meta
+    projectPath: Assets\Assets\Skybox\Skybox.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Space TollBooth\Space Tollbooth\Assets\Scenes\SampleScene.unity
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Assets\Scenes\SampleScene.unity
+    projectPath: Assets\Scenes\SampleScene.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Space TollBooth\Space Tollbooth\Library\APIUpdater\project-dependencies.graph
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Library\APIUpdater\project-dependencies.graph
+    projectPath: Library\APIUpdater\project-dependencies.graph
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Space TollBooth\Space Tollbooth\Library\ArtifactDB
     fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
       Tollbooth\Library\ArtifactDB
@@ -23,17 +72,577 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Space TollBooth\Space Tollbooth\Library\Artifacts\3d\3d966d29a7c62b14538f13eade48908e
+  - path: Space TollBooth\Space Tollbooth\Library\Artifacts\01\0143430305a331686134929650e5ce73
     fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
-      Tollbooth\Library\Artifacts\3d\3d966d29a7c62b14538f13eade48908e
-    projectPath: Library\Artifacts\3d\3d966d29a7c62b14538f13eade48908e
+      Tollbooth\Library\Artifacts\01\0143430305a331686134929650e5ce73
+    projectPath: Library\Artifacts\01\0143430305a331686134929650e5ce73
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Space TollBooth\Space Tollbooth\Library\Artifacts\02\02c56ab11127c4cfb2793fca08a8fadc
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Library\Artifacts\02\02c56ab11127c4cfb2793fca08a8fadc
+    projectPath: Library\Artifacts\02\02c56ab11127c4cfb2793fca08a8fadc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Space TollBooth\Space Tollbooth\Library\Artifacts\03\0321e72956c8d6be51d46e08af9e70df
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Library\Artifacts\03\0321e72956c8d6be51d46e08af9e70df
+    projectPath: Library\Artifacts\03\0321e72956c8d6be51d46e08af9e70df
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Space TollBooth\Space Tollbooth\Library\Artifacts\04\045aff162a9f19f89c84ae8e4da72070
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Library\Artifacts\04\045aff162a9f19f89c84ae8e4da72070
+    projectPath: Library\Artifacts\04\045aff162a9f19f89c84ae8e4da72070
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Space TollBooth\Space Tollbooth\Library\Artifacts\05\05d710b9b40762169de44a25a20dfce8
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Library\Artifacts\05\05d710b9b40762169de44a25a20dfce8
+    projectPath: Library\Artifacts\05\05d710b9b40762169de44a25a20dfce8
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Space TollBooth\Space Tollbooth\Library\Artifacts\bb\bb3d1d901d5ed37d95b0121c8b2a9aa0
+  - path: Space TollBooth\Space Tollbooth\Library\Artifacts\0a\0a8773bb1ab7dce888d58bb3a006aa35
     fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
-      Tollbooth\Library\Artifacts\bb\bb3d1d901d5ed37d95b0121c8b2a9aa0
-    projectPath: Library\Artifacts\bb\bb3d1d901d5ed37d95b0121c8b2a9aa0
+      Tollbooth\Library\Artifacts\0a\0a8773bb1ab7dce888d58bb3a006aa35
+    projectPath: Library\Artifacts\0a\0a8773bb1ab7dce888d58bb3a006aa35
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Space TollBooth\Space Tollbooth\Library\Artifacts\0c\0c7c921888b362cf30517a77b7ea0884
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Library\Artifacts\0c\0c7c921888b362cf30517a77b7ea0884
+    projectPath: Library\Artifacts\0c\0c7c921888b362cf30517a77b7ea0884
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Space TollBooth\Space Tollbooth\Library\Artifacts\0d\0ded34e3bbf06dae39384774dd8606f7
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Library\Artifacts\0d\0ded34e3bbf06dae39384774dd8606f7
+    projectPath: Library\Artifacts\0d\0ded34e3bbf06dae39384774dd8606f7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Space TollBooth\Space Tollbooth\Library\Artifacts\11\11c70975457b5d191ab2afa7caf66020
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Library\Artifacts\11\11c70975457b5d191ab2afa7caf66020
+    projectPath: Library\Artifacts\11\11c70975457b5d191ab2afa7caf66020
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Space TollBooth\Space Tollbooth\Library\Artifacts\18\1896fe21e5f74d6b9804e19f089de218
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Library\Artifacts\18\1896fe21e5f74d6b9804e19f089de218
+    projectPath: Library\Artifacts\18\1896fe21e5f74d6b9804e19f089de218
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Space TollBooth\Space Tollbooth\Library\Artifacts\1a\1ace539e8a3acc21f759832c0d1fcbde
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Library\Artifacts\1a\1ace539e8a3acc21f759832c0d1fcbde
+    projectPath: Library\Artifacts\1a\1ace539e8a3acc21f759832c0d1fcbde
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Space TollBooth\Space Tollbooth\Library\Artifacts\1b\1b86d3f1b7a8d6b1c39809536b7b5fe5
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Library\Artifacts\1b\1b86d3f1b7a8d6b1c39809536b7b5fe5
+    projectPath: Library\Artifacts\1b\1b86d3f1b7a8d6b1c39809536b7b5fe5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Space TollBooth\Space Tollbooth\Library\Artifacts\1d\1da00ea8017ca34f7c283eb0496981fd
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Library\Artifacts\1d\1da00ea8017ca34f7c283eb0496981fd
+    projectPath: Library\Artifacts\1d\1da00ea8017ca34f7c283eb0496981fd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Space TollBooth\Space Tollbooth\Library\Artifacts\1e\1e12d8f1ec7ebc2ee7fa44e7aa46077c
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Library\Artifacts\1e\1e12d8f1ec7ebc2ee7fa44e7aa46077c
+    projectPath: Library\Artifacts\1e\1e12d8f1ec7ebc2ee7fa44e7aa46077c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Space TollBooth\Space Tollbooth\Library\Artifacts\25\25e5d268d34f02673d96fd0b22db2692
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Library\Artifacts\25\25e5d268d34f02673d96fd0b22db2692
+    projectPath: Library\Artifacts\25\25e5d268d34f02673d96fd0b22db2692
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Space TollBooth\Space Tollbooth\Library\Artifacts\28\285fce020aad7a3e329d77da475fe3c3
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Library\Artifacts\28\285fce020aad7a3e329d77da475fe3c3
+    projectPath: Library\Artifacts\28\285fce020aad7a3e329d77da475fe3c3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Space TollBooth\Space Tollbooth\Library\Artifacts\29\297e800186c0d69c4c94950896aa9116
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Library\Artifacts\29\297e800186c0d69c4c94950896aa9116
+    projectPath: Library\Artifacts\29\297e800186c0d69c4c94950896aa9116
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Space TollBooth\Space Tollbooth\Library\Artifacts\2b\2b8e49ebf2caa1405a2e8fdad4b712ca
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Library\Artifacts\2b\2b8e49ebf2caa1405a2e8fdad4b712ca
+    projectPath: Library\Artifacts\2b\2b8e49ebf2caa1405a2e8fdad4b712ca
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Space TollBooth\Space Tollbooth\Library\Artifacts\2b\2bdbfa0706082b56901cfc5a9ae3c1bc
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Library\Artifacts\2b\2bdbfa0706082b56901cfc5a9ae3c1bc
+    projectPath: Library\Artifacts\2b\2bdbfa0706082b56901cfc5a9ae3c1bc
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Space TollBooth\Space Tollbooth\Library\Artifacts\30\308890c9744caaf55fa5f8db2a7607f5
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Library\Artifacts\30\308890c9744caaf55fa5f8db2a7607f5
+    projectPath: Library\Artifacts\30\308890c9744caaf55fa5f8db2a7607f5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Space TollBooth\Space Tollbooth\Library\Artifacts\31\31b36649883bd00a421c3459f80eab2f
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Library\Artifacts\31\31b36649883bd00a421c3459f80eab2f
+    projectPath: Library\Artifacts\31\31b36649883bd00a421c3459f80eab2f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Space TollBooth\Space Tollbooth\Library\Artifacts\34\34916cea9082fe4f69037bfc3380a417
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Library\Artifacts\34\34916cea9082fe4f69037bfc3380a417
+    projectPath: Library\Artifacts\34\34916cea9082fe4f69037bfc3380a417
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Space TollBooth\Space Tollbooth\Library\Artifacts\3d\3d02e5e858d9ac8477ba3c3ed92fe773
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Library\Artifacts\3d\3d02e5e858d9ac8477ba3c3ed92fe773
+    projectPath: Library\Artifacts\3d\3d02e5e858d9ac8477ba3c3ed92fe773
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Space TollBooth\Space Tollbooth\Library\Artifacts\3f\3f2ee032419e2db045c2abdbcb44b5fb
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Library\Artifacts\3f\3f2ee032419e2db045c2abdbcb44b5fb
+    projectPath: Library\Artifacts\3f\3f2ee032419e2db045c2abdbcb44b5fb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Space TollBooth\Space Tollbooth\Library\Artifacts\41\41a781447d9e4573a8b0914b03ee6610
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Library\Artifacts\41\41a781447d9e4573a8b0914b03ee6610
+    projectPath: Library\Artifacts\41\41a781447d9e4573a8b0914b03ee6610
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Space TollBooth\Space Tollbooth\Library\Artifacts\42\42cf445c8cefb6e103b7a3a7641bb145
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Library\Artifacts\42\42cf445c8cefb6e103b7a3a7641bb145
+    projectPath: Library\Artifacts\42\42cf445c8cefb6e103b7a3a7641bb145
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Space TollBooth\Space Tollbooth\Library\Artifacts\46\4664784a408ff58715a1bf51dba41322
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Library\Artifacts\46\4664784a408ff58715a1bf51dba41322
+    projectPath: Library\Artifacts\46\4664784a408ff58715a1bf51dba41322
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Space TollBooth\Space Tollbooth\Library\Artifacts\4b\4bd77adcbc96f639f732ef76fff964a3
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Library\Artifacts\4b\4bd77adcbc96f639f732ef76fff964a3
+    projectPath: Library\Artifacts\4b\4bd77adcbc96f639f732ef76fff964a3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Space TollBooth\Space Tollbooth\Library\Artifacts\4d\4dc5272ad523e59000e2cdb054175b79
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Library\Artifacts\4d\4dc5272ad523e59000e2cdb054175b79
+    projectPath: Library\Artifacts\4d\4dc5272ad523e59000e2cdb054175b79
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Space TollBooth\Space Tollbooth\Library\Artifacts\4d\4dfdd5523f2d7226670a8f47e7d85417
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Library\Artifacts\4d\4dfdd5523f2d7226670a8f47e7d85417
+    projectPath: Library\Artifacts\4d\4dfdd5523f2d7226670a8f47e7d85417
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Space TollBooth\Space Tollbooth\Library\Artifacts\53\5372a0019e926b8af6e6e803574d59c4
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Library\Artifacts\53\5372a0019e926b8af6e6e803574d59c4
+    projectPath: Library\Artifacts\53\5372a0019e926b8af6e6e803574d59c4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Space TollBooth\Space Tollbooth\Library\Artifacts\54\54935dae857eafd29e0aa60ea667aec1
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Library\Artifacts\54\54935dae857eafd29e0aa60ea667aec1
+    projectPath: Library\Artifacts\54\54935dae857eafd29e0aa60ea667aec1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Space TollBooth\Space Tollbooth\Library\Artifacts\5d\5d81760cc5fd3801bab89765bb3d14b8
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Library\Artifacts\5d\5d81760cc5fd3801bab89765bb3d14b8
+    projectPath: Library\Artifacts\5d\5d81760cc5fd3801bab89765bb3d14b8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Space TollBooth\Space Tollbooth\Library\Artifacts\5e\5ef9cb4bf001149c54c35440e85fed88
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Library\Artifacts\5e\5ef9cb4bf001149c54c35440e85fed88
+    projectPath: Library\Artifacts\5e\5ef9cb4bf001149c54c35440e85fed88
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Space TollBooth\Space Tollbooth\Library\Artifacts\62\621301d2990a637a02ce0d9b14f43543
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Library\Artifacts\62\621301d2990a637a02ce0d9b14f43543
+    projectPath: Library\Artifacts\62\621301d2990a637a02ce0d9b14f43543
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Space TollBooth\Space Tollbooth\Library\Artifacts\63\6392fa5919d2133b0629f14999fd167b
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Library\Artifacts\63\6392fa5919d2133b0629f14999fd167b
+    projectPath: Library\Artifacts\63\6392fa5919d2133b0629f14999fd167b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Space TollBooth\Space Tollbooth\Library\Artifacts\7e\7e040bb0f0454791ec74b6db78f205d1
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Library\Artifacts\7e\7e040bb0f0454791ec74b6db78f205d1
+    projectPath: Library\Artifacts\7e\7e040bb0f0454791ec74b6db78f205d1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Space TollBooth\Space Tollbooth\Library\Artifacts\80\80d2f5702d8576aa85cccbb876698f42
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Library\Artifacts\80\80d2f5702d8576aa85cccbb876698f42
+    projectPath: Library\Artifacts\80\80d2f5702d8576aa85cccbb876698f42
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Space TollBooth\Space Tollbooth\Library\Artifacts\86\86fdfafd668f135cc9e9a786e4cdfbda
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Library\Artifacts\86\86fdfafd668f135cc9e9a786e4cdfbda
+    projectPath: Library\Artifacts\86\86fdfafd668f135cc9e9a786e4cdfbda
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Space TollBooth\Space Tollbooth\Library\Artifacts\89\89e9c89fb91bc9875205ad9267f2f159
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Library\Artifacts\89\89e9c89fb91bc9875205ad9267f2f159
+    projectPath: Library\Artifacts\89\89e9c89fb91bc9875205ad9267f2f159
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Space TollBooth\Space Tollbooth\Library\Artifacts\8a\8a07ecbd060ac97d1cb2efadded7ccaa
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Library\Artifacts\8a\8a07ecbd060ac97d1cb2efadded7ccaa
+    projectPath: Library\Artifacts\8a\8a07ecbd060ac97d1cb2efadded7ccaa
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Space TollBooth\Space Tollbooth\Library\Artifacts\8f\8f6ba4e2d47e34ef2a4df3c18e8b0622
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Library\Artifacts\8f\8f6ba4e2d47e34ef2a4df3c18e8b0622
+    projectPath: Library\Artifacts\8f\8f6ba4e2d47e34ef2a4df3c18e8b0622
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Space TollBooth\Space Tollbooth\Library\Artifacts\94\9435773385ed4e02053bc3b8d8b277ce
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Library\Artifacts\94\9435773385ed4e02053bc3b8d8b277ce
+    projectPath: Library\Artifacts\94\9435773385ed4e02053bc3b8d8b277ce
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Space TollBooth\Space Tollbooth\Library\Artifacts\97\971d7d18889b05a2544afb7c1471ccaa
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Library\Artifacts\97\971d7d18889b05a2544afb7c1471ccaa
+    projectPath: Library\Artifacts\97\971d7d18889b05a2544afb7c1471ccaa
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Space TollBooth\Space Tollbooth\Library\Artifacts\98\98602e33e00ab9b35be0ec859c41975b
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Library\Artifacts\98\98602e33e00ab9b35be0ec859c41975b
+    projectPath: Library\Artifacts\98\98602e33e00ab9b35be0ec859c41975b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Space TollBooth\Space Tollbooth\Library\Artifacts\9c\9ced72a6b4568b038d3af0c65181f86d
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Library\Artifacts\9c\9ced72a6b4568b038d3af0c65181f86d
+    projectPath: Library\Artifacts\9c\9ced72a6b4568b038d3af0c65181f86d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Space TollBooth\Space Tollbooth\Library\Artifacts\a1\a15bc6e6d72a78330c83ff0ac3f29613
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Library\Artifacts\a1\a15bc6e6d72a78330c83ff0ac3f29613
+    projectPath: Library\Artifacts\a1\a15bc6e6d72a78330c83ff0ac3f29613
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Space TollBooth\Space Tollbooth\Library\Artifacts\a1\a1d01a322006f6b840eb5d5986b80674
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Library\Artifacts\a1\a1d01a322006f6b840eb5d5986b80674
+    projectPath: Library\Artifacts\a1\a1d01a322006f6b840eb5d5986b80674
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Space TollBooth\Space Tollbooth\Library\Artifacts\a3\a30a2a8edf6689d913357a0debd857f6
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Library\Artifacts\a3\a30a2a8edf6689d913357a0debd857f6
+    projectPath: Library\Artifacts\a3\a30a2a8edf6689d913357a0debd857f6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Space TollBooth\Space Tollbooth\Library\Artifacts\a6\a69e44eb571bad4a6a570e6eb3dda2cc
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Library\Artifacts\a6\a69e44eb571bad4a6a570e6eb3dda2cc
+    projectPath: Library\Artifacts\a6\a69e44eb571bad4a6a570e6eb3dda2cc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Space TollBooth\Space Tollbooth\Library\Artifacts\a6\a6d3d49470b83a39f7ddad39a4d3dd5c
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Library\Artifacts\a6\a6d3d49470b83a39f7ddad39a4d3dd5c
+    projectPath: Library\Artifacts\a6\a6d3d49470b83a39f7ddad39a4d3dd5c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Space TollBooth\Space Tollbooth\Library\Artifacts\aa\aabebc6e6acb70c7cd1ab3c65157d9f2
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Library\Artifacts\aa\aabebc6e6acb70c7cd1ab3c65157d9f2
+    projectPath: Library\Artifacts\aa\aabebc6e6acb70c7cd1ab3c65157d9f2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Space TollBooth\Space Tollbooth\Library\Artifacts\ab\ab48f15277459ab9b14cbbbcc39db01d
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Library\Artifacts\ab\ab48f15277459ab9b14cbbbcc39db01d
+    projectPath: Library\Artifacts\ab\ab48f15277459ab9b14cbbbcc39db01d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Space TollBooth\Space Tollbooth\Library\Artifacts\af\afec4285b2277dcfbfcec8c696d922fd
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Library\Artifacts\af\afec4285b2277dcfbfcec8c696d922fd
+    projectPath: Library\Artifacts\af\afec4285b2277dcfbfcec8c696d922fd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Space TollBooth\Space Tollbooth\Library\Artifacts\b2\b2ef33fac6e27860cc5849c8353727a7
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Library\Artifacts\b2\b2ef33fac6e27860cc5849c8353727a7
+    projectPath: Library\Artifacts\b2\b2ef33fac6e27860cc5849c8353727a7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Space TollBooth\Space Tollbooth\Library\Artifacts\b3\b34d5f21435d22411970e514d4b0b7a1
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Library\Artifacts\b3\b34d5f21435d22411970e514d4b0b7a1
+    projectPath: Library\Artifacts\b3\b34d5f21435d22411970e514d4b0b7a1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Space TollBooth\Space Tollbooth\Library\Artifacts\c1\c13f66607cad60686765be7943148b12
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Library\Artifacts\c1\c13f66607cad60686765be7943148b12
+    projectPath: Library\Artifacts\c1\c13f66607cad60686765be7943148b12
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Space TollBooth\Space Tollbooth\Library\Artifacts\c1\c1911f1a81872d77f1ea7422a19a13ec
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Library\Artifacts\c1\c1911f1a81872d77f1ea7422a19a13ec
+    projectPath: Library\Artifacts\c1\c1911f1a81872d77f1ea7422a19a13ec
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Space TollBooth\Space Tollbooth\Library\Artifacts\c4\c41cf9c53795ef8ac2b0a64f708a51a8
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Library\Artifacts\c4\c41cf9c53795ef8ac2b0a64f708a51a8
+    projectPath: Library\Artifacts\c4\c41cf9c53795ef8ac2b0a64f708a51a8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Space TollBooth\Space Tollbooth\Library\Artifacts\c7\c7ffab25335626545fdeded54aae6b98
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Library\Artifacts\c7\c7ffab25335626545fdeded54aae6b98
+    projectPath: Library\Artifacts\c7\c7ffab25335626545fdeded54aae6b98
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Space TollBooth\Space Tollbooth\Library\Artifacts\c8\c848788f77e2ee7b9196c12fb00f8a24
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Library\Artifacts\c8\c848788f77e2ee7b9196c12fb00f8a24
+    projectPath: Library\Artifacts\c8\c848788f77e2ee7b9196c12fb00f8a24
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Space TollBooth\Space Tollbooth\Library\Artifacts\cb\cb1a9dce37df3fe2067cd78b97c53d5a
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Library\Artifacts\cb\cb1a9dce37df3fe2067cd78b97c53d5a
+    projectPath: Library\Artifacts\cb\cb1a9dce37df3fe2067cd78b97c53d5a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Space TollBooth\Space Tollbooth\Library\Artifacts\cc\cc52596d48406a3ce3e996b3ffa8cb7a
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Library\Artifacts\cc\cc52596d48406a3ce3e996b3ffa8cb7a
+    projectPath: Library\Artifacts\cc\cc52596d48406a3ce3e996b3ffa8cb7a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Space TollBooth\Space Tollbooth\Library\Artifacts\d0\d02369bfe707c3632ce0e8f4667dabdc
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Library\Artifacts\d0\d02369bfe707c3632ce0e8f4667dabdc
+    projectPath: Library\Artifacts\d0\d02369bfe707c3632ce0e8f4667dabdc
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Space TollBooth\Space Tollbooth\Library\Artifacts\d3\d302a96930dca4b18ada548eddc44c70
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Library\Artifacts\d3\d302a96930dca4b18ada548eddc44c70
+    projectPath: Library\Artifacts\d3\d302a96930dca4b18ada548eddc44c70
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Space TollBooth\Space Tollbooth\Library\Artifacts\d7\d70a90634ab0e1da83a529865b360891
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Library\Artifacts\d7\d70a90634ab0e1da83a529865b360891
+    projectPath: Library\Artifacts\d7\d70a90634ab0e1da83a529865b360891
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Space TollBooth\Space Tollbooth\Library\Artifacts\da\da6546cc901bdefc99a5ca263e4066b8
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Library\Artifacts\da\da6546cc901bdefc99a5ca263e4066b8
+    projectPath: Library\Artifacts\da\da6546cc901bdefc99a5ca263e4066b8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Space TollBooth\Space Tollbooth\Library\Artifacts\db\db644d5277bd9a4b67987c8c248b80c3
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Library\Artifacts\db\db644d5277bd9a4b67987c8c248b80c3
+    projectPath: Library\Artifacts\db\db644d5277bd9a4b67987c8c248b80c3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Space TollBooth\Space Tollbooth\Library\Artifacts\dc\dc61a349059492df5740de20d181c4d5
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Library\Artifacts\dc\dc61a349059492df5740de20d181c4d5
+    projectPath: Library\Artifacts\dc\dc61a349059492df5740de20d181c4d5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Space TollBooth\Space Tollbooth\Library\Artifacts\dc\dc928e5b9f04b168b7c098bdd7610d8d
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Library\Artifacts\dc\dc928e5b9f04b168b7c098bdd7610d8d
+    projectPath: Library\Artifacts\dc\dc928e5b9f04b168b7c098bdd7610d8d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Space TollBooth\Space Tollbooth\Library\Artifacts\e0\e08e92f7840aebdcda946f0ffc9588b2
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Library\Artifacts\e0\e08e92f7840aebdcda946f0ffc9588b2
+    projectPath: Library\Artifacts\e0\e08e92f7840aebdcda946f0ffc9588b2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Space TollBooth\Space Tollbooth\Library\Artifacts\e2\e23c9b52ccb4dab96e6633c988db76b4
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Library\Artifacts\e2\e23c9b52ccb4dab96e6633c988db76b4
+    projectPath: Library\Artifacts\e2\e23c9b52ccb4dab96e6633c988db76b4
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Space TollBooth\Space Tollbooth\Library\Artifacts\e5\e5dae8b7f707b4e75d2680db8eef7f76
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Library\Artifacts\e5\e5dae8b7f707b4e75d2680db8eef7f76
+    projectPath: Library\Artifacts\e5\e5dae8b7f707b4e75d2680db8eef7f76
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Space TollBooth\Space Tollbooth\Library\Artifacts\ed\ed08690be52a1d7dbb2b3dfec712ddf4
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Library\Artifacts\ed\ed08690be52a1d7dbb2b3dfec712ddf4
+    projectPath: Library\Artifacts\ed\ed08690be52a1d7dbb2b3dfec712ddf4
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Space TollBooth\Space Tollbooth\Library\Artifacts\ef\ef6b24d933d8d36bd372d6e0440f3bd5
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Library\Artifacts\ef\ef6b24d933d8d36bd372d6e0440f3bd5
+    projectPath: Library\Artifacts\ef\ef6b24d933d8d36bd372d6e0440f3bd5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Space TollBooth\Space Tollbooth\Library\Artifacts\f0\f0798d20bbc43c37de311823114a9cc4
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Library\Artifacts\f0\f0798d20bbc43c37de311823114a9cc4
+    projectPath: Library\Artifacts\f0\f0798d20bbc43c37de311823114a9cc4
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Space TollBooth\Space Tollbooth\Library\Artifacts\f3\f30a3c4118f8f417b4ed4fd762e00d25
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Library\Artifacts\f3\f30a3c4118f8f417b4ed4fd762e00d25
+    projectPath: Library\Artifacts\f3\f30a3c4118f8f417b4ed4fd762e00d25
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Space TollBooth\Space Tollbooth\Library\Artifacts\fa\fa2ce0ad6e19167bb856528b397801c4
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Library\Artifacts\fa\fa2ce0ad6e19167bb856528b397801c4
+    projectPath: Library\Artifacts\fa\fa2ce0ad6e19167bb856528b397801c4
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Space TollBooth\Space Tollbooth\Library\Artifacts\fc\fcd04411c7b2fccc6da141a1f32299f1
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Library\Artifacts\fc\fcd04411c7b2fccc6da141a1f32299f1
+    projectPath: Library\Artifacts\fc\fcd04411c7b2fccc6da141a1f32299f1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Space TollBooth\Space Tollbooth\Library\Artifacts\fd\fdc7bcb8c207830c297bbf4d8ed5c4e1
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Library\Artifacts\fd\fdc7bcb8c207830c297bbf4d8ed5c4e1
+    projectPath: Library\Artifacts\fd\fdc7bcb8c207830c297bbf4d8ed5c4e1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Space TollBooth\Space Tollbooth\Library\Artifacts\fd\fde4fbdde96702c71dda2f360f78b40b
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Library\Artifacts\fd\fde4fbdde96702c71dda2f360f78b40b
+    projectPath: Library\Artifacts\fd\fde4fbdde96702c71dda2f360f78b40b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Space TollBooth\Space Tollbooth\Library\Artifacts\fe\fee00609f91a50436fd22e2a3cc76fd9
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Library\Artifacts\fe\fee00609f91a50436fd22e2a3cc76fd9
+    projectPath: Library\Artifacts\fe\fee00609f91a50436fd22e2a3cc76fd9
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
@@ -79,10 +688,150 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Space TollBooth\Space Tollbooth\Library\ShaderCache\0\0b35482027daf9d39dbc8f1a3b4d83ed.bin
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Library\ShaderCache\0\0b35482027daf9d39dbc8f1a3b4d83ed.bin
+    projectPath: Library\ShaderCache\0\0b35482027daf9d39dbc8f1a3b4d83ed.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Space TollBooth\Space Tollbooth\Library\ShaderCache\2\2981946881c4a6840488ad26c0b04f62.bin
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Library\ShaderCache\2\2981946881c4a6840488ad26c0b04f62.bin
+    projectPath: Library\ShaderCache\2\2981946881c4a6840488ad26c0b04f62.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Space TollBooth\Space Tollbooth\Library\ShaderCache\4\40a7213d654110244687f1dcfb6cd7f5.bin
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Library\ShaderCache\4\40a7213d654110244687f1dcfb6cd7f5.bin
+    projectPath: Library\ShaderCache\4\40a7213d654110244687f1dcfb6cd7f5.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Space TollBooth\Space Tollbooth\Library\ShaderCache\4\47d52e952e20f603d14a58aa9c4eb2ff.bin
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Library\ShaderCache\4\47d52e952e20f603d14a58aa9c4eb2ff.bin
+    projectPath: Library\ShaderCache\4\47d52e952e20f603d14a58aa9c4eb2ff.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Space TollBooth\Space Tollbooth\Library\ShaderCache\8\81b4eacb518c7c79628a794de26589b6.bin
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Library\ShaderCache\8\81b4eacb518c7c79628a794de26589b6.bin
+    projectPath: Library\ShaderCache\8\81b4eacb518c7c79628a794de26589b6.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Space TollBooth\Space Tollbooth\Library\ShaderCache\8\823ab815a23ccbd9e67672f764ebcd74.bin
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Library\ShaderCache\8\823ab815a23ccbd9e67672f764ebcd74.bin
+    projectPath: Library\ShaderCache\8\823ab815a23ccbd9e67672f764ebcd74.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Space TollBooth\Space Tollbooth\Library\ShaderCache\8\83bd8b10f20b033fdb382b20ec90506a.bin
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Library\ShaderCache\8\83bd8b10f20b033fdb382b20ec90506a.bin
+    projectPath: Library\ShaderCache\8\83bd8b10f20b033fdb382b20ec90506a.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Space TollBooth\Space Tollbooth\Library\ShaderCache\8\8da1c3024aca7be8704fb0e63810242b.bin
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Library\ShaderCache\8\8da1c3024aca7be8704fb0e63810242b.bin
+    projectPath: Library\ShaderCache\8\8da1c3024aca7be8704fb0e63810242b.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Space TollBooth\Space Tollbooth\Library\ShaderCache\9\97a5471346e821cb697318b681d29fa3.bin
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Library\ShaderCache\9\97a5471346e821cb697318b681d29fa3.bin
+    projectPath: Library\ShaderCache\9\97a5471346e821cb697318b681d29fa3.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Space TollBooth\Space Tollbooth\Library\ShaderCache\a\a5e5d04e60bdbf636c84f81160b67c94.bin
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Library\ShaderCache\a\a5e5d04e60bdbf636c84f81160b67c94.bin
+    projectPath: Library\ShaderCache\a\a5e5d04e60bdbf636c84f81160b67c94.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Space TollBooth\Space Tollbooth\Library\ShaderCache\a\accd8486afb5732bbe8960b16aaabe74.bin
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Library\ShaderCache\a\accd8486afb5732bbe8960b16aaabe74.bin
+    projectPath: Library\ShaderCache\a\accd8486afb5732bbe8960b16aaabe74.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Space TollBooth\Space Tollbooth\Library\ShaderCache\b\b6fcc382c3843a71e7a4bc6757059e94.bin
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Library\ShaderCache\b\b6fcc382c3843a71e7a4bc6757059e94.bin
+    projectPath: Library\ShaderCache\b\b6fcc382c3843a71e7a4bc6757059e94.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Space TollBooth\Space Tollbooth\Library\ShaderCache\c\c4cdd6feca8daa8cf0a4410a1e04c0b5.bin
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Library\ShaderCache\c\c4cdd6feca8daa8cf0a4410a1e04c0b5.bin
+    projectPath: Library\ShaderCache\c\c4cdd6feca8daa8cf0a4410a1e04c0b5.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Space TollBooth\Space Tollbooth\Library\ShaderCache\c\c5f3a6aeafd8bcbbafc6c6ddc9499313.bin
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Library\ShaderCache\c\c5f3a6aeafd8bcbbafc6c6ddc9499313.bin
+    projectPath: Library\ShaderCache\c\c5f3a6aeafd8bcbbafc6c6ddc9499313.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Space TollBooth\Space Tollbooth\Library\ShaderCache\d\d7da0fa654ccf6801b4809844e50e3a5.bin
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Library\ShaderCache\d\d7da0fa654ccf6801b4809844e50e3a5.bin
+    projectPath: Library\ShaderCache\d\d7da0fa654ccf6801b4809844e50e3a5.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Space TollBooth\Space Tollbooth\Library\ShaderCache\d\dc9b9c2cda0e91112314afa240e85c2c.bin
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Library\ShaderCache\d\dc9b9c2cda0e91112314afa240e85c2c.bin
+    projectPath: Library\ShaderCache\d\dc9b9c2cda0e91112314afa240e85c2c.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Space TollBooth\Space Tollbooth\Library\ShaderCache\d\df1086aacc6a025f6743d94fc44c306b.bin
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Library\ShaderCache\d\df1086aacc6a025f6743d94fc44c306b.bin
+    projectPath: Library\ShaderCache\d\df1086aacc6a025f6743d94fc44c306b.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Space TollBooth\Space Tollbooth\Library\ShaderCache\EditorEncounteredVariants
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Library\ShaderCache\EditorEncounteredVariants
+    projectPath: Library\ShaderCache\EditorEncounteredVariants
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Space TollBooth\Space Tollbooth\Library\ShaderCache\f\fa2d36f1496553595106383b9c8821ad.bin
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Library\ShaderCache\f\fa2d36f1496553595106383b9c8821ad.bin
+    projectPath: Library\ShaderCache\f\fa2d36f1496553595106383b9c8821ad.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Space TollBooth\Space Tollbooth\Library\SourceAssetDB
     fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
       Tollbooth\Library\SourceAssetDB
     projectPath: Library\SourceAssetDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Space TollBooth\Space Tollbooth\Library\StateCache\MainStageHierarchy\20\20db623d12715bc079494feab1686285.json
+    fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
+      Tollbooth\Library\StateCache\MainStageHierarchy\20\20db623d12715bc079494feab1686285.json
+    projectPath: Library\StateCache\MainStageHierarchy\20\20db623d12715bc079494feab1686285.json
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -99,7 +848,7 @@ MonoBehaviour:
     projectPath: Temp\__Backupscenes\0.backup
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
+    workTreeStatus: 5
   - path: Space TollBooth\Space Tollbooth\Temp\UnityLockfile
     fullPath: U:\GitHub\Projects\Space Tollbooth\LazyRockGame\Space TollBooth\Space
       Tollbooth\Temp\UnityLockfile
